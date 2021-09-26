@@ -22,4 +22,4 @@ You can use any third-party library, using UI library is welcomed.
 
 
 ## note
-the app is coded in Reactjs and pure css.
+the app is built in Reactjs and pure css.
