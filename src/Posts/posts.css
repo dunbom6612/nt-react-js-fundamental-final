@@ -1,0 +1,31 @@
+.posts {
+  padding: 1rem 5rem;
+}
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th{
+  border: 1px solid #ddd;
+  padding: 1rem;
+  text-align: start;
+}
+th:first-child, td:first-child{
+  width: 10%;
+}
+
+th:last-child, td:last-child{
+  width: 20%;
+}
+
+button{
+  display: inline-block;
+  margin-left: 2rem;
+}
+
+
+
+
+

@@ -1,0 +1,9 @@
+.app__nav ul{
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+
+.app__nav ul li{
+  margin: 1.5rem;
+}

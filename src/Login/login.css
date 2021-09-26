@@ -1,0 +1,29 @@
+.login {
+  padding: 1rem 5rem;
+}
+
+input,
+button {
+  display: block;
+}
+
+input {
+  margin-bottom: 0.5rem;
+  width: 20rem;
+}
+.error{
+  margin-bottom: 1rem;
+  color: red;
+  font-size: 1.4rem;
+  font-style: italic;
+}
+
+.submit-btn{
+  margin: 0;
+  margin-top: 1rem;
+}
+
+.success-message{
+  color: green;
+  font-size: 1.4rem;
+}
