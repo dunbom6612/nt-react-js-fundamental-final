@@ -1,7 +1,7 @@
 # REACTJS_ FUNDAMENTAL_COURSE_FINAL TEST
 
 This is the final assignment of my class reactjs fundamental.
-This app was built following these requirements below: 
+This app was built followed these requirements below: 
 
 Demo: https://react-training-react.web.app/
 Detail requirements: create a SPA which has
